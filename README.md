@@ -344,15 +344,6 @@ A calculator project developed as part of frontend and programming practice.
 <p align="center">
   <picture>
 
-  # CONTRIBUTION SNAKE
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake-dark.svg"
-    />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake.svg"
