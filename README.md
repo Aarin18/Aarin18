@@ -349,37 +349,7 @@ A calculator project developed as part of frontend and programming practice.
   />
 </p>
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</p>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-
-  </picture>
-</p>
+ 
 
 ---
 
