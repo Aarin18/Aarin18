@@ -342,7 +342,12 @@ A calculator project developed as part of frontend and programming practice.
 # CONTRIBUTION SNAKE
 
 <p align="center">
-  <picture>
+  <img
+    src="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
     <source
       media="(prefers-color-scheme: light)"
