@@ -1,101 +1,158 @@
+<!-- ========================================================= -->
+<!--                    ARIN PATEL — README                    -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# ARIN PATEL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=ARIN%20PATEL&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-### AI & ML Student • Software Developer • Problem Solver
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+%26+ML+Student;Software+Developer;DSA+Problem+Solver;Full-Stack+Developer+in+Progress;Building+Practical+AI-Powered+Products" alt="Typing SVG"/>
+</a>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+ML+Student;Building+Practical+Software+Projects;Learning+AI+%26+Machine+Learning;Data+Structures+%26+Algorithms;Frontend+%26+Full-Stack+Development;Always+Learning+%26+Building" />
-</p>
+<br/>
 
-<p>
-  <a href="https://github.com/Aarin18">
-    <img src="https://img.shields.io/badge/GitHub-Aarin18-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arin-patel-640468398/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arinpatel999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parul%20University-Vadodara-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-7.46-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/100%2B-Coding%20Problems-A855F7?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=Aarin18&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+<br/><br/>
+
+<a href="https://github.com/Aarin18">
+<img src="https://img.shields.io/badge/GitHub-Aarin18-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Aarin1/">
+<img src="https://img.shields.io/badge/LeetCode-90%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arin-patel-640468398/">
+<img src="https://img.shields.io/badge/LinkedIn-Arin%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aarin18&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hi, I'm **Arin Patel**, a B.Tech Artificial Intelligence & Machine Learning student at **Parul University, Vadodara**.
+Hi, I'm **Arin Patel** — a **B.Tech Artificial Intelligence & Machine Learning student at Parul University, Vadodara**, passionate about software development, artificial intelligence, machine learning, and problem solving.
 
-I enjoy turning ideas into practical digital products while continuously improving my foundations in software development, artificial intelligence, machine learning, and problem solving.
+I enjoy transforming ideas into practical digital products while continuously strengthening my programming and engineering fundamentals.
 
 Currently, I'm focused on:
 
-- Building practical software projects
-- Strengthening Data Structures & Algorithms
-- Learning Artificial Intelligence & Machine Learning
-- Improving JavaScript and web development
-- Exploring backend and full-stack development
+- Building practical software and AI-powered applications
+- Strengthening **Data Structures & Algorithms**
 - Solving coding problems consistently
-- Learning through real-world projects
+- Learning **Artificial Intelligence & Machine Learning**
+- Improving **JavaScript and web development**
+- Exploring backend and full-stack development
+- Building projects that solve real-world problems
+- Improving software engineering fundamentals
 
 > **Build → Break → Learn → Improve → Repeat.**
 
+### Open To
+
+- Software Development Internships
+- AI/ML Internships
+- Full-Stack Development Opportunities
+- Open Source Collaboration
+- Hackathons
+- Real-world Development Projects
+
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**B.Tech — Artificial Intelligence & Machine Learning**
+### B.Tech — Artificial Intelligence & Machine Learning
 
-Parul University, Vadodara  
+**Parul University, Vadodara**
+
 **CGPA:** 7.46
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css" />
 </p>
 
-### Web Development
+## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend & Database
+## Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools
+## AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 **Other Tools:** Microsoft Office · Canva
 
 ---
 
-## 🚀 Featured Projects
+# 🤖 AI / ML Expertise
 
-### 01. CivicOS — AI-Powered Civic Grievance Platform
+| Domain | Level | Focus |
+|---|---|---|
+| Python | Intermediate | Programming, automation & problem solving |
+| Artificial Intelligence | Learning | AI fundamentals & practical applications |
+| Machine Learning | Learning | ML fundamentals & model concepts |
+| Data Structures | Intermediate | Arrays, algorithms & problem solving |
+| Algorithms | Intermediate | Logical problem solving & optimization |
+| AI Applications | Learning | Building AI-oriented products |
+| Data Science | Learning | Data analysis & ML foundations |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><strong>01. CivicOS — AI-Powered Civic Grievance Platform</strong></summary>
+
+<br/>
 
 A civic technology platform designed to make public grievance reporting and management more accessible through a modern digital experience.
 
-**Focus:** Civic Technology · Grievance Management · AI/ML Concepts
+### Overview
 
-**Tech:** HTML · CSS · JavaScript · AI/ML Concepts
+CivicOS focuses on creating a digital workflow for citizens to report civic problems while providing a structured platform for complaint management.
 
-**Key Features**
+| Category | Details |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript · AI/ML Concepts |
+| **Domain** | Civic Technology |
+| **Scale** | Citizen-focused digital platform |
+| **Performance** | Responsive & mobile-friendly interface |
+| **Security** | Authentication-oriented workflow |
+| **Impact** | Simplifies civic issue reporting |
+| **Repository** | [CivicOS](https://github.com/DhruvalBhinsara1/CivicOS) |
+
+### Key Features
 
 - Civic issue reporting
 - Category-based complaints
@@ -105,18 +162,28 @@ A civic technology platform designed to make public grievance reporting and mana
 - Modern UI
 - AI-oriented future functionality
 
-🔗 **Repository:**  
-https://github.com/DhruvalBhinsara1/CivicOS
+</details>
 
 ---
 
-### 02. Responsive E-Commerce Website
+<details>
+<summary><strong>02. Responsive E-Commerce Website</strong></summary>
 
-A responsive e-commerce web application built to practice frontend development and JavaScript interactions.
+<br/>
 
-**Tech:** HTML · CSS · JavaScript
+A responsive e-commerce web application created to strengthen frontend development and JavaScript interaction skills.
 
-**Features**
+| Category | Details |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Domain** | E-Commerce |
+| **Scale** | Responsive web application |
+| **Performance** | Responsive UI |
+| **Security** | Client-side application |
+| **Impact** | Practical e-commerce workflow |
+| **Repository** | [GitHub Profile](https://github.com/Aarin18) |
+
+### Features
 
 - Product listing
 - Product search
@@ -125,221 +192,133 @@ A responsive e-commerce web application built to practice frontend development a
 - JavaScript interactions
 - E-commerce workflow
 
+</details>
+
 ---
 
-### 03. Electronic Website
+<details>
+<summary><strong>03. Electronic Website</strong></summary>
+
+<br/>
 
 A frontend project focused on creating an electronics-oriented web interface.
 
-**Tech:** HTML · CSS
+| Category | Details |
+|---|---|
+| **Stack** | HTML · CSS |
+| **Domain** | Frontend Development |
+| **Focus** | UI Design |
+| **Repository** | [Electronic Website](https://github.com/Aarin18/Electronic-website) |
 
-**Focus:** Frontend Development · UI Design
-
-🔗 **Repository:**  
-https://github.com/Aarin18/Electronic-website
+</details>
 
 ---
 
-### 04. Personal Portfolio
+<details>
+<summary><strong>04. Personal Portfolio</strong></summary>
+
+<br/>
 
 A personal portfolio website created to showcase development skills, projects, and personal branding.
 
-**Tech:** HTML · CSS
+| Category | Details |
+|---|---|
+| **Stack** | HTML · CSS |
+| **Domain** | Portfolio Development |
+| **Focus** | Personal Branding |
+| **Repository** | [Portfolio](https://github.com/Aarin18/Portfolio) |
 
-**Focus:** Portfolio · Personal Branding
-
-🔗 **Repository:**  
-https://github.com/Aarin18/Portfolio
-
----
-
-### 05. JavaScript Quiz
-
-An interactive quiz application created to practice JavaScript fundamentals and user interactions.
-
-**Tech:** HTML · JavaScript
-
-**Focus:** JavaScript · Interactive Web Development
-
-🔗 **Repository:**  
-https://github.com/Aarin18/Quiz-for-JS
+</details>
 
 ---
 
-### 06. Calculator
+<details>
+<summary><strong>05. JavaScript Quiz</strong></summary>
 
-A simple calculator project developed to practice programming logic, UI development, and JavaScript interactions.
+<br/>
 
-**Tech:** HTML · CSS · JavaScript
+An interactive quiz application created to practice JavaScript fundamentals and user interaction.
 
-🔗 **Repository:**  
-https://github.com/Aarin18/CALCULATOR
+| Category | Details |
+|---|---|
+| **Stack** | HTML · JavaScript |
+| **Domain** | Interactive Web Development |
+| **Focus** | JavaScript Fundamentals |
+| **Repository** | [Quiz-for-JS](https://github.com/Aarin18/Quiz-for-JS) |
 
----
-
-## 🧠 What I'm Learning
-
-<table>
-<tr>
-<td width="50%">
-
-### Artificial Intelligence
-
-- AI fundamentals
-- Machine Learning fundamentals
-- AI-powered applications
-- Practical AI concepts
-
-</td>
-
-<td width="50%">
-
-### Software Development
-
-- Data Structures & Algorithms
-- JavaScript
-- Backend Development
-- Full-Stack Development
-- Problem Solving
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 💻 Coding & Problem Solving
+<details>
+<summary><strong>06. Calculator</strong></summary>
 
-I regularly practice programming and problem solving to strengthen my understanding of algorithms and data structures.
+<br/>
 
-### Progress
+A calculator application developed to practice programming logic, UI development, and JavaScript interactions.
 
-**80+ coding problems solved**
+| Category | Details |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Domain** | Web Development |
+| **Focus** | Programming Logic |
+| **Repository** | [CALCULATOR](https://github.com/Aarin18/CALCULATOR) |
 
-Focus areas:
+</details>
+
+---
+
+# 💻 Coding & Problem Solving
+
+<div align="center">
+
+## 100+ Problems Solved Across Coding Platforms
+
+### 90+ Problems Solved on LeetCode
+
+<a href="https://leetcode.com/u/Aarin1/">
+<img src="https://img.shields.io/badge/LeetCode-90%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/100%2B-Total%20Coding%20Problems-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Active%20Practice-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Consistent-A855F7?style=for-the-badge"/>
+
+</div>
+
+### Current Problem-Solving Focus
 
 - Arrays
-- Problem Solving
+- Strings
 - Data Structures
 - Algorithms
+- Problem Solving
 - Programming Fundamentals
+- Logical Thinking
 - Competitive Programming
 
-### Coding Profiles
+### Coding Philosophy
 
-<p>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-80%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Practice-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-</p>
+> **Don't just solve the problem. Understand why the solution works.**
 
 ---
 
-## 📜 Certifications
-
-### Web Development
-
-- HTML Certification
-- CSS Certification
-
----
-
-## 🤝 Experience
-
-### Social Media Chair — Rotaract Club
-
-**2+ Years**
-
-During my time with Rotaract, I worked on:
-
-- Social media content
-- Community service initiatives
-- Team collaboration
-- Outreach activities
-- Institutional events
-- Communication and teamwork
-
-This experience helped me develop both technical and interpersonal skills.
-
----
-
-## 🏆 Highlights
-
-| Area | Highlight |
-|---|---|
-| 🎓 Education | B.Tech AI & ML |
-| 📊 Academic | CGPA 7.46 |
-| 💻 Coding | 80+ problems solved |
-| 🌐 Development | Multiple web projects |
-| 🤝 Experience | 2+ years with Rotaract |
-| 🤖 Focus | AI & Machine Learning |
-| 🧩 Problem Solving | DSA & Competitive Programming |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aarin18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarin18&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarin18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aarin18/Aarin18/gh-pages/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
----
-
-## 🎯 Current Focus
+# 🧠 Learning Journey
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  LEARNING                                           │
-│  ├── Data Structures & Algorithms                   │
-│  ├── Artificial Intelligence                        │
-│  ├── Machine Learning                               │
-│  ├── Advanced JavaScript                            │
-│  └── Backend Development                             │
-│                                                     │
-│  BUILDING                                           │
-│  ├── CivicOS                                        │
-│  ├── Responsive Web Applications                    │
-│  └── Full-Stack Projects                            │
-│                                                     │
-│  EXPLORING                                          │
-│  ├── AI-powered applications                        │
-│  ├── Software Engineering                           │
-│  ├── Modern Web Technologies                        │
-│  └── Open Source                                    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+                    ARIN PATEL
+                        │
+          ┌─────────────┴─────────────┐
+          │                           │
+       SOFTWARE                    AI / ML
+       DEVELOPMENT                     │
+          │                    ┌────────┴────────┐
+     ┌────┴────┐               │                 │
+     │         │               │                 │
+    DSA     WEB DEV           AI                ML
+     │         │               │                 │
+ Arrays    JavaScript      Fundamentals      Fundamentals
+ Strings    Frontend       Applications      Concepts
+ Algorithms Backend        AI Products       Models
