@@ -1,324 +1,291 @@
-<!-- ========================================================= -->
-<!--                    ARIN PATEL — README                    -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=ARIN%20PATEL&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=200&section=header&text=Arin%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+%26+ML+Student;Software+Developer;DSA+Problem+Solver;Full-Stack+Developer+in+Progress;Building+Practical+AI-Powered+Products" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Software+Developer;AI+Enthusiast;Problem+Solver;Building+with+AI" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Parul%20University-Vadodara-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-7.46-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/100%2B-Coding%20Problems-A855F7?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-4b0082?style=for-the-badge" alt="Degree"/>
+  <img src="https://img.shields.io/badge/Parul%20University-Vadodara-4b0082?style=for-the-badge" alt="University"/>
+  <img src="https://img.shields.io/badge/Batch-2029-4b0082?style=for-the-badge" alt="Batch"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://github.com/Aarin18">
+    <img src="https://img.shields.io/badge/GitHub-Aarin18-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/Aarin1/">
+    <img src="https://img.shields.io/badge/LeetCode-Aarin1-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arin-patel-640468398/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arin%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<a href="https://github.com/Aarin18">
-<img src="https://img.shields.io/badge/GitHub-Aarin18-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/Aarin1/">
-<img src="https://img.shields.io/badge/LeetCode-90%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arin-patel-640468398/">
-<img src="https://img.shields.io/badge/LinkedIn-Arin%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aarin18&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aarin18&color=9D4EDD&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Aarin18?color=9D4EDD&style=flat-square&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Aarin18?color=9D4EDD&style=flat-square&label=Stars" alt="Stars"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+<h2>👋 About Me</h2>
+</div>
 
-Hi, I'm **Arin Patel** — a **B.Tech Artificial Intelligence & Machine Learning student at Parul University, Vadodara**, passionate about software development, artificial intelligence, machine learning, and problem solving.
+Hi! I'm **Arin Patel**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **Parul University, Vadodara**.
 
-I enjoy transforming ideas into practical digital products while continuously strengthening my programming and engineering fundamentals.
+I'm passionate about building practical software, exploring AI/ML, and improving my problem-solving skills through competitive programming and real-world projects.
 
 Currently, I'm focused on:
 
-- Building practical software and AI-powered applications
-- Strengthening **Data Structures & Algorithms**
-- Solving coding problems consistently
-- Learning **Artificial Intelligence & Machine Learning**
-- Improving **JavaScript and web development**
-- Exploring backend and full-stack development
-- Building projects that solve real-world problems
-- Improving software engineering fundamentals
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Software Development
+* 🧠 Data Structures & Algorithms
+* 🌐 Full-Stack Web Development
+* 🚀 Building AI-powered projects
+* 📚 Continuously learning new technologies
 
-> **Build → Break → Learn → Improve → Repeat.**
-
-### Open To
-
-- Software Development Internships
-- AI/ML Internships
-- Full-Stack Development Opportunities
-- Open Source Collaboration
-- Hackathons
-- Real-world Development Projects
+> **Learning → Building → Solving → Improving**
 
 ---
 
-# 🎓 Education
+<div align="center">
+<h2>🛠️ Tech Stack</h2>
+</div>
 
-### B.Tech — Artificial Intelligence & Machine Learning
+### Programming Languages
 
-**Parul University, Vadodara**
-
-**CGPA:** 7.46
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark" alt="Programming Languages"/>
 </p>
 
-## Frontend Development
+### AI / ML & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI ML"/>
 </p>
 
-## Backend & Databases
+**Currently exploring:**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+`Machine Learning` `Deep Learning` `Artificial Intelligence` `Data Science` `Generative AI` `LLMs`
+
+### Web Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" alt="Web Development"/>
 </p>
 
-## AI / ML
+### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
 </p>
 
-## Tools & Platforms
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<div align="center">
+<h2>🚀 Featured Projects</h2>
+</div>
+
+### 🤖 CivicOS / CivicAI
+
+**AI-powered Citizen Grievance Platform**
+
+A platform designed to help citizens report civic problems and track their complaints while helping authorities manage and resolve issues efficiently.
+
+**Focus:**
+
+`AI` `React Native` `JavaScript` `APIs` `Maps` `Citizen Services`
+
+---
+
+### 🧠 Project Mentor AI
+
+An AI-powered project feasibility and mentoring platform designed to help users evaluate project ideas, understand requirements, identify technologies, and receive AI-generated guidance.
+
+**Focus:**
+
+`AI` `Gemini API` `JavaScript` `HTML` `CSS` `Node.js`
+
+---
+
+### 🍰 Bakery Ordering Platform
+
+A modern bakery-focused digital ordering experience designed around a real bakery brand and its visual identity.
+
+**Focus:**
+
+`UI/UX` `HTML` `CSS` `JavaScript` `Responsive Design`
+
+---
+
+<div align="center">
+<h2>🏆 Coding & Problem Solving</h2>
+</div>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Aarin1/">
+<img src="https://img.shields.io/badge/LeetCode-90%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Total%20Coding-100%2B%20Problems-4b0082?style=for-the-badge"/>
+
 </p>
 
-**Other Tools:** Microsoft Office · Canva
+### 📊 My Coding Journey
+
+* **90+ problems solved on LeetCode**
+* **100+ coding problems completed across platforms**
+* Practicing **Arrays, Binary Search, Sorting, Strings, Recursion and DSA**
+* Continuously improving problem-solving and algorithmic thinking
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Aarin1?theme=dark\&font=Baloo\&ext=heatmap)](https://leetcode.com/u/Aarin1/)
 
 ---
 
-# 🤖 AI / ML Expertise
+<div align="center">
+<h2>📜 Certifications</h2>
+</div>
 
-| Domain | Level | Focus |
-|---|---|---|
-| Python | Intermediate | Programming, automation & problem solving |
-| Artificial Intelligence | Learning | AI fundamentals & practical applications |
-| Machine Learning | Learning | ML fundamentals & model concepts |
-| Data Structures | Intermediate | Arrays, algorithms & problem solving |
-| Algorithms | Intermediate | Logical problem solving & optimization |
-| AI Applications | Learning | Building AI-oriented products |
-| Data Science | Learning | Data analysis & ML foundations |
+### 🤖 Anthropic
 
----
+<a href="https://anthropic.skilljar.com/">
+<img src="https://img.shields.io/badge/Claude%20101-Anthropic-4b0082?style=for-the-badge" alt="Claude 101"/>
+</a>
 
-# 🚀 Featured Projects
+**Claude 101 — Anthropic**
 
-<details>
-<summary><strong>01. CivicOS — AI-Powered Civic Grievance Platform</strong></summary>
-
-<br/>
-
-A civic technology platform designed to make public grievance reporting and management more accessible through a modern digital experience.
-
-### Overview
-
-CivicOS focuses on creating a digital workflow for citizens to report civic problems while providing a structured platform for complaint management.
-
-| Category | Details |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript · AI/ML Concepts |
-| **Domain** | Civic Technology |
-| **Scale** | Citizen-focused digital platform |
-| **Performance** | Responsive & mobile-friendly interface |
-| **Security** | Authentication-oriented workflow |
-| **Impact** | Simplifies civic issue reporting |
-| **Repository** | [CivicOS](https://github.com/DhruvalBhinsara1/CivicOS) |
-
-### Key Features
-
-- Civic issue reporting
-- Category-based complaints
-- Responsive interface
-- Dashboard-oriented workflow
-- Mobile-friendly experience
-- Modern UI
-- AI-oriented future functionality
-
-</details>
+Completed foundational learning focused on understanding and working with Claude and Anthropic's AI ecosystem.
 
 ---
 
-<details>
-<summary><strong>02. Responsive E-Commerce Website</strong></summary>
+### 📚 More Certifications
 
-<br/>
+> Add your verified certificates here as you complete them.
 
-A responsive e-commerce web application created to strengthen frontend development and JavaScript interaction skills.
+Recommended format:
 
-| Category | Details |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript |
-| **Domain** | E-Commerce |
-| **Scale** | Responsive web application |
-| **Performance** | Responsive UI |
-| **Security** | Client-side application |
-| **Impact** | Practical e-commerce workflow |
-| **Repository** | [GitHub Profile](https://github.com/Aarin18) |
+`Certificate Name` — `Organization`
 
-### Features
+Examples:
 
-- Product listing
-- Product search
-- Shopping cart
-- Responsive design
-- JavaScript interactions
-- E-commerce workflow
-
-</details>
+* **Claude 101** — Anthropic
+* **[Certificate Name]** — [Organization]
+* **[Certificate Name]** — [Organization]
 
 ---
 
-<details>
-<summary><strong>03. Electronic Website</strong></summary>
+<div align="center">
+<h2>📈 GitHub Analytics</h2>
+</div>
 
-<br/>
+<p align="center">
 
-A frontend project focused on creating an electronics-oriented web interface.
+<img src="https://github-readme-stats.vercel.app/api?username=Aarin18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9D4EDD&icon_color=9D4EDD" alt="GitHub Stats" width="48%"/>
 
-| Category | Details |
-|---|---|
-| **Stack** | HTML · CSS |
-| **Domain** | Frontend Development |
-| **Focus** | UI Design |
-| **Repository** | [Electronic Website](https://github.com/Aarin18/Electronic-website) |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarin18&theme=tokyonight&hide_border=true&background=000000&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" width="48%"/>
 
-</details>
+</p>
 
----
+<p align="center">
 
-<details>
-<summary><strong>04. Personal Portfolio</strong></summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarin18&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9D4EDD" alt="Top Languages" width="50%"/>
 
-<br/>
-
-A personal portfolio website created to showcase development skills, projects, and personal branding.
-
-| Category | Details |
-|---|---|
-| **Stack** | HTML · CSS |
-| **Domain** | Portfolio Development |
-| **Focus** | Personal Branding |
-| **Repository** | [Portfolio](https://github.com/Aarin18/Portfolio) |
-
-</details>
+</p>
 
 ---
 
-<details>
-<summary><strong>05. JavaScript Quiz</strong></summary>
+<div align="center">
+<h2>🏆 GitHub Trophies</h2>
+</div>
 
-<br/>
+<p align="center">
 
-An interactive quiz application created to practice JavaScript fundamentals and user interaction.
+<img src="https://github-profile-trophy.vercel.app/?username=Aarin18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
 
-| Category | Details |
-|---|---|
-| **Stack** | HTML · JavaScript |
-| **Domain** | Interactive Web Development |
-| **Focus** | JavaScript Fundamentals |
-| **Repository** | [Quiz-for-JS](https://github.com/Aarin18/Quiz-for-JS) |
-
-</details>
+</p>
 
 ---
 
-<details>
-<summary><strong>06. Calculator</strong></summary>
+<div align="center">
+<h2>🐍 Contribution Snake</h2>
+</div>
 
-<br/>
+<p align="center">
 
-A calculator application developed to practice programming logic, UI development, and JavaScript interactions.
+<img src="https://raw.githubusercontent.com/Aarin18/Aarin18/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-| Category | Details |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript |
-| **Domain** | Web Development |
-| **Focus** | Programming Logic |
-| **Repository** | [CALCULATOR](https://github.com/Aarin18/CALCULATOR) |
-
-</details>
+</p>
 
 ---
 
-# 💻 Coding & Problem Solving
+<div align="center">
+<h2>📊 Contribution Activity</h2>
+</div>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarin18&theme=tokyonight&bg_color=000000&color=9D4EDD&line=4b0082&point=ffffff&hide_border=true" alt="Contribution Activity" width="100%"/>
+
+</p>
+
+---
+
+<div align="center">
+<h2>🎯 Current Focus</h2>
+</div>
+
+```yaml
+Learning:
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Large Language Models
+  - Data Structures & Algorithms
+
+Building:
+  - AI-powered Web Applications
+  - Full-Stack Projects
+  - AI/ML Projects
+  - Developer Tools
+
+Improving:
+  - LeetCode
+  - Problem Solving
+  - Java
+  - Python
+  - JavaScript
+
+Goals:
+  - Become a strong AI/ML Engineer
+  - Build production-ready AI applications
+  - Contribute to Open Source
+  - Solve 100+ coding problems and keep growing
+```
+
+---
 
 <div align="center">
 
-## 100+ Problems Solved Across Coding Platforms
+### 💡 "Build something useful. Learn something new every day."
 
-### 90+ Problems Solved on LeetCode
+<br/>
 
-<a href="https://leetcode.com/u/Aarin1/">
-<img src="https://img.shields.io/badge/LeetCode-90%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://github.com/Aarin18">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-4b0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/100%2B-Total%20Coding%20Problems-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Active%20Practice-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-Consistent-A855F7?style=for-the-badge"/>
+<a href="https://leetcode.com/u/Aarin1/">
+<img src="https://img.shields.io/badge/Check%20My%20LeetCode-4b0082?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
-
-### Current Problem-Solving Focus
-
-- Arrays
-- Strings
-- Data Structures
-- Algorithms
-- Problem Solving
-- Programming Fundamentals
-- Logical Thinking
-- Competitive Programming
-
-### Coding Philosophy
-
-> **Don't just solve the problem. Understand why the solution works.**
-
----
-
-# 🧠 Learning Journey
-
-```text
-                    ARIN PATEL
-                        │
-          ┌─────────────┴─────────────┐
-          │                           │
-       SOFTWARE                    AI / ML
-       DEVELOPMENT                     │
-          │                    ┌────────┴────────┐
-     ┌────┴────┐               │                 │
-     │         │               │                 │
-    DSA     WEB DEV           AI                ML
-     │         │               │                 │
- Arrays    JavaScript      Fundamentals      Fundamentals
- Strings    Frontend       Applications      Concepts
- Algorithms Backend        AI Products       Models
