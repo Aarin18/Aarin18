@@ -147,29 +147,37 @@ The system can analyze a project idea and provide structured guidance around:
 
 ---
 
-### 03. 🍰 Cake & Bake — Bakery Ordering Platform
+### 03. 💬 ChatApp
 
-> **Modern Bakery Web Experience**
+> **Real-Time Chat Application**
 
-A modern digital experience designed for a bakery business, focusing on a clean and premium bakery-oriented interface.
+A real-time chat application built to provide users with a simple and interactive platform for communicating with each other.
 
-The project combines **UI/UX design, responsive web development and business-oriented functionality**.
+The project focuses on implementing the fundamentals of **real-time communication, user interaction, authentication and modern web application development**.
 
 **Technologies**
 
-`HTML` `CSS` `JavaScript` `Responsive Design` `UI/UX`
+`JavaScript` `HTML` `CSS` `Node.js` `Express.js`
 
 **Key Features**
 
-* Bakery-focused branding
-* Product presentation
-* Responsive layout
-* Modern navigation
-* Product-focused UI
-* Ordering-oriented experience
-* Mobile-friendly design
+* 💬 Real-time messaging
+* 👤 User-based communication
+* 🔐 User authentication
+* 📱 Responsive chat interface
+* ⚡ Real-time message updates
+* 🌐 Client-server communication
+* 🖥️ Interactive chat UI
 
----
+**What I Learned**
+
+* Building client-server applications
+* Working with backend APIs
+* Handling real-time communication
+* Managing users and messages
+* Connecting frontend and backend
+* Designing responsive interfaces
+
 
 <div align="center">
 
